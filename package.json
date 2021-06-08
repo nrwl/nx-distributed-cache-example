@@ -81,6 +81,6 @@
     "typescript": "~3.5.3"
   },
   "resolutions": {
-    "webpack": "4.39.2"
+    "webpack": "4.41.2"
   }
 }
