@@ -46,13 +46,12 @@
     "@angular-devkit/build-angular": "0.803.23",
     "@angular/compiler-cli": "^8.2.0",
     "@angular/language-service": "^8.2.0",
-    "@babel/plugin-proposal-class-static-block": "^7.14.3",
     "@babel/preset-react": "7.0.0",
     "@nrwl/angular": "8.12.2",
     "@nrwl/cypress": "8.12.2",
     "@nrwl/eslint-plugin-nx": "8.12.2",
-    "@nrwl/jest": "8.12.2",
     "@nrwl/nx-cloud": "8.12.4",
+    "@nrwl/jest": "8.12.2",
     "@nrwl/react": "8.12.2",
     "@nrwl/web": "8.12.2",
     "@nrwl/workspace": "8.12.2",
@@ -81,6 +80,6 @@
     "typescript": "~3.5.3"
   },
   "resolutions": {
-    "webpack": "4.41.2"
+    "webpack": "4.39.2"
   }
 }
